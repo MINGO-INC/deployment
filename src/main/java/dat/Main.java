@@ -14,5 +14,6 @@ public class Main {
 
     public static void main(String[] args) {
         ApplicationConfig.startServer(7077);
+        System.out.println("Server started");
     }
 }
